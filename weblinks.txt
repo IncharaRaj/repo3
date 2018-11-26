@@ -1,0 +1,2 @@
+http://blog.udinic.com/2014/05/24/aosp-part-1-get-the-code-using-the-manifest-and-repo
+https://gitlabee.dt.renault.com/swlabs/cc/ivi/android/platform/manifest/blob/integ/renesas/android/master/p/include/renesas.xml
